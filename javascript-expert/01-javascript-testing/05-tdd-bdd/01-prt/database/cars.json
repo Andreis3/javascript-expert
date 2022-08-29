@@ -1,0 +1,23 @@
+[
+  {
+    "id": "61920c89-9774-4be4-8b8f-11ab522e0646",
+    "name": "Charger",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "828dd276-a2e0-4cc1-8625-daf1dd3baa91",
+    "name": "XTS",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "c0a3f94c-890d-42c7-9f83-aee5bbac6916",
+    "name": "Malibu",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
