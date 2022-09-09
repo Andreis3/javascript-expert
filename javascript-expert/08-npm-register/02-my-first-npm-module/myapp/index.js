@@ -1,5 +1,5 @@
 // para importar do diretório use o comando abaixo
-// node --experimental-specifier-resolution=node index.js
+// node --experimental-specifier-resolution=node index.mjs
 
 //import FluentSQLBuilder from './../fluentsql-jest-tdd-yt';
 import FluentSQLBuilder from "@andreis3/fluentsql";
