@@ -50,7 +50,7 @@ describe('Test suite for Template Method design pattern', () => {
                 }]
             })
 
-            // com template method, a sequência de passos é sempre executada
+            // com templates method, a sequência de passos é sempre executada
             // evita a replicacao de lógica
             const result = orderBusiness.create(order)
 
