@@ -27,7 +27,7 @@ const layers = ['repository', 'service', 'factory'].sort();
 const config = {
     layers,
     defaultMainFolder,
-    mainFolder: '.',
+    mainPath: '.',
 };
 
 await createLayersIfNotExists(config);
