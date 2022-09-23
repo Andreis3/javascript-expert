@@ -1,0 +1,19 @@
+{
+  "name": "@andreis3/02-classroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start-server": "mkdir -p logs && node webApi.js",
+    "api-one": "curl http://localhost:3000 | tee logs/api-one.log",
+    "api-two": "curl http://localhost:4000 | tee logs/api-two.log",
+    "example-one": "node examples/01-concat-streams.async-iterators/concat-streams.async-iterators.js | tee logs/concat-streams.async-iterators.log"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
